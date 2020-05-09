@@ -14,3 +14,11 @@ span{
 width:auto;
 height: initial;
 }
+footer{
+text-align: center;
+background-color: black;
+color: white;
+}
+nav{
+text-decoration: white;
+}
