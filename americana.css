@@ -4,24 +4,9 @@
 body{ 
 background-color: rgb(240, 233, 233);
     }
-    /*
-section{
-    background-color: royalblue;
-}
-
-menu{
-background-color: seagreen;
-text-align: center;
-}
-*/
-div.dropdown{
-
-}
-
 div.sub-menu{
+width: auto;
 background-color: white;
 margin-left:15px;
-width: auto;
 
 }
-div.sub-menu.
