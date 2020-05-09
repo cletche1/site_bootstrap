@@ -3,11 +3,22 @@
 
 body{ 
 background-color: rgb(240, 233, 233);
-color: white;
     }
 section{
     background-color: royalblue;
 }
 menu{
 background-color: seagreen;
+text-align: center;
+}
+
+div.dropdown{
+
+}
+
+div.sub-menu{
+background-color: white;
+margin-left:15px;
+width: auto;
+
 }
