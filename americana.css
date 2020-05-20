@@ -1,6 +1,4 @@
 
-*{margin: 0; padding: 0;}
-
 body{ 
 background-color: rgb(240, 233, 233);
     }
@@ -21,9 +19,4 @@ color: white;
 }
 nav{
 color: white;
-}
-p.aviso{
-  text-align: center;
-  color: white;
-
 }
